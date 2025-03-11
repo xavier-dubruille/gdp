@@ -1,7 +1,6 @@
+def compute_universe_answer() -> int:
+    """Returns the ultimate answer to life, the universe, and everything."""
+    return 42  # Correction de la réponse 😄
 
-
-
-def compute_the_response_to_the_universe():
-  return 43
-
-print(f"The response is {compute_the_response_to_the_universe() "}
+if __name__ == "__main__":
+    print(f"The response is {compute_universe_answer()}")
